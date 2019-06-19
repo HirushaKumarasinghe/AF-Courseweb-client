@@ -1,0 +1,22 @@
+{
+  "name": "coursewebfront",
+  "version": "1.0.0",
+  "description": "application fron end",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
